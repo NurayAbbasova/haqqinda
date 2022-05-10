@@ -22,8 +22,8 @@ This project was developed using the following technologies
 
 | No | Technique | Purpose |
 | - | ---------- | --------------------- |
-| 1 | Html | Create single page website |
-| 2 | Css | Create single page website |
+| 1 | Html | Building a project skeleton |
+| 2 | Css | Make-up of the established skeleton |
 | 3 | VSCode | Text editor used in the project |
 
 
