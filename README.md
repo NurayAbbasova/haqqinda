@@ -4,16 +4,16 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/cavidsuleyman/SADE-HOM-PAGE?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/cavidsuleyman/SADE-HOM-PAGE?style=for-the-badge)
 
-  # Haqqinda
+  # Lesson
 
 Hello, welcome to this lesson. Today I create with Html and Css test.
 ## ## RULES OF USE
 
-> *STEP-1:* `https://github.com/NurayAbbasova/haqqinda.git` <br/>
-> *STEP-2:*  enter the `Haqqinda` folder that appears <br/>
+> *STEP-1:* `https://github.com/NurayAbbasova/lesson.git` <br/>
+> *STEP-2:*  enter the `Lesson` folder that appears <br/>
 > *STEP-3:*  open the folder you are in in a text editor <br/>
 > *STEP-4:*  open the folder with `cmd` or `Git Bash` and write `npm start` <br/>
-> *STEP-5:*  to download the project as `.zip`  [here](https://github.com/NurayAbbasova/haqqinda/archive/refs/heads/master.zip) click <br/>
+> *STEP-5:*  to download the project as `.zip`  [here](https://github.com/NurayAbbasova/lesson/archive/refs/heads/master.zip) click <br/>
 
 
 ## Technology
